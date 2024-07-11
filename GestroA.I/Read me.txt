@@ -1,0 +1,14 @@
+HOW TO HANDLE THE MODEL:
+-The model is as simple as it seems.
+-To run the full program add both codes in a folder.
+-Checks for path correction as well as API's.
+
+
+
+
+USAGE:
+AI Assistant:
+-Run the application and interact with the assistant via voice or text commands.
+
+Hand Gesture Control: 
+-Use predefined hand gestures to control the mouse and navigate through the interface.
